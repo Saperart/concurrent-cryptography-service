@@ -1,6 +1,9 @@
 # Concurrent Cryptography Service
 
 >High-performance concurrent service for encrypting sensitive data (e.g. bank card numbers) using **AES-GCM** with strong guarantees of correctness, security and scalability.
+
+> **Note:** The implementation source code and project files are not publicly available due to NDA and course confidentiality policies.
+
 ---
 
 ## Overview
